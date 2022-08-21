@@ -1,2 +1,3 @@
-# mandelbrot
-Playing around with automated trading
+# Mandelbrot
+
+Playing around with automated trading using [Alpaca's API](https://alpaca.markets/docs/trading/)
